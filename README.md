@@ -1,6 +1,6 @@
-# Advancing-Galaxy-Analysis-AI-Powered-Detection-and-Segmentation-of-Edge-On-Galaxies
+# EdgeOnML - Advancing-Galaxy-Analysis-AI-Powered-Detection-and-Segmentation-of-Edge-On-Galaxies
 
-## Supplemental materials to the paper published in A&A:
+## Supplemental materials to be published in Chrobáková et al. (2024)
 
 - Folder preprocessing contains script used for transforming FIT data to JPG, extracting labeled data, transforming csv data to desired TXT format and spliting dataset to train, val and test set.
 - Folder postprocessing contains scripts used after galaxy detection and segmentation for extracting desired data used in the paper.
